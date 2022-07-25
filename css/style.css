@@ -239,6 +239,11 @@ footer .phone {
   max-height: 749px;
 }
 
+.sold {
+  color: rgb(255, 0, 0);
+  font-weight: 700;
+}
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 2fr));
